@@ -7,3 +7,5 @@ var test3 = 'test3';
 var test4 = 'test4';
 
 var test5 = 'test5';
+
+var test5 = 'test5';
